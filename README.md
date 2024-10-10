@@ -13,7 +13,6 @@ This repository contains the code for predicting the age and gender of individua
 - [Usage](#usage)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
 
 ## Overview
 
@@ -99,8 +98,4 @@ Install the dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or suggestions.
 ---
